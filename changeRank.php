@@ -1,7 +1,7 @@
 <?php
 $group_id         = $_GET['2746575'];
-$new_role_set_id  = $_GET['239'];
-$target_user_id   = $_GET['236'];
+$new_role_set_id  = $_GET['18599712'];
+$target_user_id   = $_GET['18599696'];
 
 
 $login_user       = 'username=ChocoRankBot&password=DiamondXray11';
